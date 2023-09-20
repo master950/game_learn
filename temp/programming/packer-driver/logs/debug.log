@@ -1,0 +1,246 @@
+debug: Wed, 20 Sep 2023 09:18:45 GMT
+debug: Project: C:\Users\14416\Desktop\gameassets\cocos-start-demo-master
+debug: Targets: editor,preview
+debug: Incremental file seems great.
+debug: Engine path: C:\ProgramData\cocos\editors\Creator\3.4.2\resources\resources\3d\engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Loading cache costs 1.6283000111579895ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Loading cache costs 1.641099989414215ms.
+debug: Sync engine features: 2d,base,gfx-webgl,gfx-webgl2,marionette,profiler,tween,ui
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 50.47680002450943ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 20
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:04 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:07:34 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Wed Sep 20 2023 17:10:27 GMT+0800 (中国标准时间), Current mtime: Wed Sep 20 2023 17:18:41 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Target(editor) ends with cost 140.99930000305176ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:04 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:07:35 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:09 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Wed Sep 20 2023 17:10:27 GMT+0800 (中国标准时间), Current mtime: Wed Sep 20 2023 17:18:41 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Target(preview) ends with cost 67.91269999742508ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:07:54 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts.
+debug: Detected change: file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts. Last mtime: Wed Sep 20 2023 17:18:00 GMT+0800 (中国标准时间)@296e967f-a45f-404a-8eed-7663ff24b240, Current mtime: Wed Sep 20 2023 17:25:41 GMT+0800 (中国标准时间)@296e967f-a45f-404a-8eed-7663ff24b240
+debug: Inspect file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts
+debug: Detected change: file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts. Last mtime: Mon Sep 18 2023 19:59:43 GMT+0800 (中国标准时间)@fcb36e47-0e9f-4199-b064-6f3827900d1b, Current mtime: Wed Sep 20 2023 17:26:29 GMT+0800 (中国标准时间)@fcb36e47-0e9f-4199-b064-6f3827900d1b
+debug: Inspect file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts as cce:/internal/x/cc.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/runtime/resourceManage from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts.
+debug: Resolve db://assets/scripts/player/animation/playerState from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts.
+debug: Resolve db://assets/Enum from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts.
+debug: Target(editor) ends with cost 177.17270004749298ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:09 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:07:54 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts.
+debug: Detected change: file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts. Last mtime: Mon Sep 18 2023 19:59:43 GMT+0800 (中国标准时间)@fcb36e47-0e9f-4199-b064-6f3827900d1b, Current mtime: Wed Sep 20 2023 17:26:29 GMT+0800 (中国标准时间)@fcb36e47-0e9f-4199-b064-6f3827900d1b
+debug: Inspect file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts
+debug: Detected change: file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts. Last mtime: Wed Sep 20 2023 17:18:00 GMT+0800 (中国标准时间)@296e967f-a45f-404a-8eed-7663ff24b240, Current mtime: Wed Sep 20 2023 17:25:41 GMT+0800 (中国标准时间)@296e967f-a45f-404a-8eed-7663ff24b240
+debug: Inspect file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts as cce:/internal/x/cc.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/runtime/resourceManage from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts.
+debug: Resolve db://assets/scripts/player/animation/playerState from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts.
+debug: Resolve db://assets/Enum from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts.
+debug: Target(preview) ends with cost 106.56000000238419ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:07:54 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:16:34 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts.
+debug: Detected change: file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts. Last mtime: Wed Sep 20 2023 17:26:29 GMT+0800 (中国标准时间)@fcb36e47-0e9f-4199-b064-6f3827900d1b, Current mtime: Wed Sep 20 2023 17:26:59 GMT+0800 (中国标准时间)@fcb36e47-0e9f-4199-b064-6f3827900d1b
+debug: Inspect file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/scripts/player/animation/playerState from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts.
+debug: Resolve db://assets/Enum from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts.
+debug: Target(editor) ends with cost 69.73890000581741ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:07:54 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:16:35 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts.
+debug: Resolve file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts.
+debug: Detected change: file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts. Last mtime: Wed Sep 20 2023 17:26:29 GMT+0800 (中国标准时间)@fcb36e47-0e9f-4199-b064-6f3827900d1b, Current mtime: Wed Sep 20 2023 17:26:59 GMT+0800 (中国标准时间)@fcb36e47-0e9f-4199-b064-6f3827900d1b
+debug: Inspect file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/scripts/player/animation/playerState from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts.
+debug: Resolve db://assets/Enum from file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts as file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts.
+debug: Target(preview) ends with cost 84.46729999780655ms.

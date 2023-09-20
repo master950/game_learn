@@ -1,0 +1,341 @@
+{
+  "assets/levels/level1.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Enum/index.js"
+    },
+    "physicalLocation": "fs/0/assets/levels/level1.js",
+    "mTimestamp": 1694814326590
+  },
+  "assets/scripts/tile/tile.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/tile/tile.js",
+    "mTimestamp": 1694831300572
+  },
+  "assets/runtime/resourceManage.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/base/base.js"
+    },
+    "physicalLocation": "fs/0/assets/runtime/resourceManage.js",
+    "mTimestamp": 1694833129693
+  },
+  "assets/utils/index.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/utils/index.js",
+    "mTimestamp": 1694833501727
+  },
+  "assets/scripts/tile/tileManage.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/tile/tile.js",
+      "__unresolved_3": "assets/runtime/dataManage.js",
+      "__unresolved_4": "assets/runtime/resourceManage.js",
+      "__unresolved_2": "assets/utils/index.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/tile/tileManage.js",
+    "mTimestamp": 1694833974182
+  },
+  "assets/runtime/eventManage.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/base/base.js"
+    },
+    "physicalLocation": "fs/0/assets/runtime/eventManage.js",
+    "mTimestamp": 1694836391407
+  },
+  "assets/scripts/ui/control.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/ui/control.js",
+    "mTimestamp": 1694836882652
+  },
+  "assets/levels/level2.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Enum/index.js"
+    },
+    "physicalLocation": "fs/0/assets/levels/level2.js",
+    "mTimestamp": 1694837562648
+  },
+  "assets/levels/index.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "__unresolved_2": "assets/levels/level2.js",
+      "__unresolved_1": "assets/levels/level1.js"
+    },
+    "physicalLocation": "fs/0/assets/levels/index.js",
+    "mTimestamp": 1694837562684
+  },
+  "assets/runtime/animationManage.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/runtime/animationManage.js",
+    "mTimestamp": 1694919351360
+  },
+  "assets/runtime/dataManage.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/base/base.js"
+    },
+    "physicalLocation": "fs/0/assets/runtime/dataManage.js",
+    "mTimestamp": 1694922349917
+  },
+  "assets/scripts/player/animation/player.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/player/animation/player.js",
+    "mTimestamp": 1694924649784
+  },
+  "assets/base/base.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/base/base.js",
+    "mTimestamp": 1694925895163
+  },
+  "assets/scripts/player/animation/playerStateMachine.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/player/animation/playerStateMachine.js",
+    "mTimestamp": 1694925895195
+  },
+  "assets/scripts/player/animation/index.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/player/animation/playerState.js",
+      "__unresolved_2": "assets/scripts/player/animation/playerStateMachine.js",
+      "__unresolved_4": "assets/scripts/player/animation/playerTurnLeft.js",
+      "__unresolved_3": "assets/scripts/player/animation/playerIdle.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/player/animation/index.js",
+    "mTimestamp": 1694926466766
+  },
+  "assets/scripts/ui/controlManage.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/runtime/eventManage.js",
+      "__unresolved_2": "assets/Enum/index.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/ui/controlManage.js",
+    "mTimestamp": 1694928482046
+  },
+  "assets/scripts/sence/batleManage.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/levels/index.js",
+      "__unresolved_4": "assets/runtime/dataManage.js",
+      "__unresolved_6": "assets/runtime/eventManage.js",
+      "__unresolved_7": "assets/Enum/index.js",
+      "__unresolved_8": "assets/scripts/player/playerManage.js",
+      "__unresolved_5": "assets/scripts/tile/tile.js",
+      "__unresolved_1": "assets/scripts/tile/tileManage.js",
+      "__unresolved_2": "assets/utils/index.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/sence/batleManage.js",
+    "mTimestamp": 1694929258755
+  },
+  "assets/scripts/player/animation/playerTurnLeft.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/player/animation/playerState.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/player/animation/playerTurnLeft.js",
+    "mTimestamp": 1694932802971
+  },
+  "assets/Enum/index.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Enum/index.js",
+    "mTimestamp": 1695034455080
+  },
+  "assets/scripts/player/playerManage.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Enum/index.js",
+      "__unresolved_3": "assets/runtime/eventManage.js",
+      "__unresolved_4": "assets/scripts/player/animation/playerAnimController.js",
+      "__unresolved_1": "assets/scripts/tile/tile.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/player/playerManage.js",
+    "mTimestamp": 1695037251323
+  },
+  "assets/scripts/player/animation/playerAnimController.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/player/animation/index.js",
+      "__unresolved_3": "assets/runtime/eventManage.js",
+      "__unresolved_4": "assets/Enum/index.js",
+      "__unresolved_1": "assets/scripts/player/animation/playerStateMachine.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/player/animation/playerAnimController.js",
+    "mTimestamp": 1695037399808
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {
+      "__unresolved_0": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/base"
+      },
+      "__unresolved_1": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl"
+      },
+      "__unresolved_2": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl2"
+      },
+      "__unresolved_3": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/3d"
+      },
+      "__unresolved_4": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/2d"
+      },
+      "__unresolved_5": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/ui"
+      },
+      "__unresolved_6": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle"
+      },
+      "__unresolved_7": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle-2d"
+      },
+      "__unresolved_8": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-framework"
+      },
+      "__unresolved_9": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-2d-framework"
+      },
+      "__unresolved_10": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/intersection-2d"
+      },
+      "__unresolved_11": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/primitive"
+      },
+      "__unresolved_12": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/profiler"
+      },
+      "__unresolved_13": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/audio"
+      },
+      "__unresolved_14": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/video"
+      },
+      "__unresolved_15": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/terrain"
+      },
+      "__unresolved_16": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/webview"
+      },
+      "__unresolved_17": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tween"
+      },
+      "__unresolved_18": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tiled-map"
+      },
+      "__unresolved_19": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/spine"
+      },
+      "__unresolved_20": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/dragon-bones"
+      }
+    },
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1695201530262,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1695201530317
+  },
+  "assets/scripts/player/animation/playerState.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/runtime/resourceManage.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/player/animation/playerState.js",
+    "mTimestamp": 1695201995939
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "__unresolved_0": "assets/Enum/index.js",
+      "__unresolved_1": "assets/base/base.js",
+      "__unresolved_2": "assets/levels/index.js",
+      "__unresolved_4": "assets/levels/level2.js",
+      "__unresolved_3": "assets/levels/level1.js",
+      "__unresolved_5": "assets/runtime/dataManage.js",
+      "__unresolved_7": "assets/runtime/resourceManage.js",
+      "__unresolved_6": "assets/runtime/eventManage.js",
+      "__unresolved_8": "assets/scripts/player/animation/index.js",
+      "__unresolved_9": "assets/scripts/player/animation/playerAnimController.js",
+      "__unresolved_11": "assets/scripts/player/animation/playerState.js",
+      "__unresolved_12": "assets/scripts/player/animation/playerStateMachine.js",
+      "__unresolved_13": "assets/scripts/player/animation/playerTurnLeft.js",
+      "__unresolved_15": "assets/scripts/sence/batleManage.js",
+      "__unresolved_14": "assets/scripts/player/playerManage.js",
+      "__unresolved_16": "assets/scripts/tile/tile.js",
+      "__unresolved_17": "assets/scripts/tile/tileManage.js",
+      "__unresolved_18": "assets/scripts/ui/controlManage.js",
+      "__unresolved_19": "assets/utils/index.js",
+      "__unresolved_10": "assets/scripts/player/animation/playerIdle.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1695202516236,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
+  "assets/scripts/player/animation/playerIdle.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/player/animation/playerState.js",
+      "__unresolved_2": "assets/Enum/index.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/player/animation/playerIdle.js",
+    "mTimestamp": 1695202516278
+  }
+}

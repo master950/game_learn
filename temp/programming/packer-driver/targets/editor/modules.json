@@ -1,0 +1,2269 @@
+{
+  "cce:/internal/x/cc": {
+    "mTimestamp": 4698.068799972534,
+    "chunkId": "quick-pack:/cce/internal/x/cc.js",
+    "imports": [
+      {
+        "value": "cce:/internal/x/cc-fu/base",
+        "rewritten": "__unresolved_0",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 14
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 14
+          },
+          "end": {
+            "line": 3,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/3d",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 14
+          },
+          "end": {
+            "line": 4,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/2d",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 14
+          },
+          "end": {
+            "line": 5,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/ui",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 14
+          },
+          "end": {
+            "line": 6,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 14
+          },
+          "end": {
+            "line": 7,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle-2d",
+        "rewritten": "__unresolved_7",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 14
+          },
+          "end": {
+            "line": 8,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-framework",
+        "rewritten": "__unresolved_8",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 14
+          },
+          "end": {
+            "line": 9,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "rewritten": "__unresolved_9",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 14
+          },
+          "end": {
+            "line": 10,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/intersection-2d",
+        "rewritten": "__unresolved_10",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 14
+          },
+          "end": {
+            "line": 11,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/primitive",
+        "rewritten": "__unresolved_11",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 14
+          },
+          "end": {
+            "line": 12,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/profiler",
+        "rewritten": "__unresolved_12",
+        "loc": {
+          "start": {
+            "line": 13,
+            "column": 14
+          },
+          "end": {
+            "line": 13,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/audio",
+        "rewritten": "__unresolved_13",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 14
+          },
+          "end": {
+            "line": 14,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/video",
+        "rewritten": "__unresolved_14",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 14
+          },
+          "end": {
+            "line": 15,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/terrain",
+        "rewritten": "__unresolved_15",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 14
+          },
+          "end": {
+            "line": 16,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/webview",
+        "rewritten": "__unresolved_16",
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 14
+          },
+          "end": {
+            "line": 17,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tween",
+        "rewritten": "__unresolved_17",
+        "loc": {
+          "start": {
+            "line": 18,
+            "column": 14
+          },
+          "end": {
+            "line": 18,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tiled-map",
+        "rewritten": "__unresolved_18",
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 14
+          },
+          "end": {
+            "line": 19,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/spine",
+        "rewritten": "__unresolved_19",
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 14
+          },
+          "end": {
+            "line": 20,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/dragon-bones",
+        "rewritten": "__unresolved_20",
+        "loc": {
+          "start": {
+            "line": 21,
+            "column": 14
+          },
+          "end": {
+            "line": 21,
+            "column": 50
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/base",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/3d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/ui",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/primitive",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/profiler",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/audio",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/video",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/terrain",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/webview",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tween",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/spine",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones",
+        "isExternal": true
+      }
+    ]
+  },
+  "cce:/internal/x/prerequisite-imports": {
+    "mTimestamp": 994997.1823999882,
+    "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
+    "imports": [
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts",
+        "rewritten": "__unresolved_0",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 35
+          },
+          "end": {
+            "line": 5,
+            "column": 123
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 139
+          },
+          "end": {
+            "line": 5,
+            "column": 226
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 242
+          },
+          "end": {
+            "line": 5,
+            "column": 332
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 348
+          },
+          "end": {
+            "line": 5,
+            "column": 439
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 455
+          },
+          "end": {
+            "line": 5,
+            "column": 546
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 562
+          },
+          "end": {
+            "line": 5,
+            "column": 658
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 674
+          },
+          "end": {
+            "line": 5,
+            "column": 771
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts",
+        "rewritten": "__unresolved_7",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 787
+          },
+          "end": {
+            "line": 5,
+            "column": 887
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts",
+        "rewritten": "__unresolved_8",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 903
+          },
+          "end": {
+            "line": 5,
+            "column": 1011
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts",
+        "rewritten": "__unresolved_9",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1027
+          },
+          "end": {
+            "line": 5,
+            "column": 1150
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts",
+        "rewritten": "__unresolved_10",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1166
+          },
+          "end": {
+            "line": 5,
+            "column": 1279
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts",
+        "rewritten": "__unresolved_11",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1295
+          },
+          "end": {
+            "line": 5,
+            "column": 1409
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts",
+        "rewritten": "__unresolved_12",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1425
+          },
+          "end": {
+            "line": 5,
+            "column": 1546
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts",
+        "rewritten": "__unresolved_13",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1562
+          },
+          "end": {
+            "line": 5,
+            "column": 1679
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts",
+        "rewritten": "__unresolved_14",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1695
+          },
+          "end": {
+            "line": 5,
+            "column": 1800
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts",
+        "rewritten": "__unresolved_15",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1816
+          },
+          "end": {
+            "line": 5,
+            "column": 1919
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts",
+        "rewritten": "__unresolved_16",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1935
+          },
+          "end": {
+            "line": 5,
+            "column": 2030
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts",
+        "rewritten": "__unresolved_17",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2046
+          },
+          "end": {
+            "line": 5,
+            "column": 2147
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts",
+        "rewritten": "__unresolved_18",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2163
+          },
+          "end": {
+            "line": 5,
+            "column": 2265
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts",
+        "rewritten": "__unresolved_19",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2281
+          },
+          "end": {
+            "line": 5,
+            "column": 2370
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts": {
+    "mTimestamp": {
+      "mtime": 1694814291377.6482,
+      "uuid": "de1f163b-fbbb-417d-83f2-f4330d98c10e"
+    },
+    "chunkId": "assets/levels/level1.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "db://assets/Enum",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 31
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts": {
+    "mTimestamp": {
+      "mtime": 1695034013134.877,
+      "uuid": "af1d747c-e190-494b-bda8-2e5d543d1466"
+    },
+    "chunkId": "assets/Enum/index.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "cce:/internal/code-quality/cr.mjs": {
+    "mTimestamp": 1695201521289,
+    "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
+    "imports": [],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": []
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts": {
+    "mTimestamp": {
+      "mtime": 1694837480458.8042,
+      "uuid": "d5ea90f6-28cf-49b3-ab0e-fc28c2e0c9b4"
+    },
+    "chunkId": "assets/levels/index.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "db://assets/levels/level1",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 19
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "db://assets/levels/level2",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 19
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level1.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/sence/batleManage.ts": {
+    "mTimestamp": {
+      "mtime": 1694929145324.693,
+      "uuid": "32ccc93b-0138-45d9-8174-4b3c5ed92d58"
+    },
+    "chunkId": "assets/scripts/sence/batleManage.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "db://assets/scripts/tile/tileManage",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 27
+          },
+          "end": {
+            "line": 2,
+            "column": 64
+          }
+        }
+      },
+      {
+        "value": "db://assets/utils/index",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 29
+          },
+          "end": {
+            "line": 3,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "db://assets/levels/index",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 31
+          },
+          "end": {
+            "line": 4,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "db://assets/runtime/dataManage",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "../tile/tile",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 40
+          },
+          "end": {
+            "line": 6,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "db://assets/runtime/eventManage",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 24
+          },
+          "end": {
+            "line": 7,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "db://assets/Enum/index",
+        "rewritten": "__unresolved_7",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 27
+          },
+          "end": {
+            "line": 8,
+            "column": 51
+          }
+        }
+      },
+      {
+        "value": "../player/playerManage",
+        "rewritten": "__unresolved_8",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 29
+          },
+          "end": {
+            "line": 9,
+            "column": 53
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/index.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tileManage.ts": {
+    "mTimestamp": {
+      "mtime": 1694833972890.5837,
+      "uuid": "f248c8ae-9e29-4d69-ae3a-8ea564400d3e"
+    },
+    "chunkId": "assets/scripts/tile/tileManage.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 38
+          },
+          "end": {
+            "line": 2,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "db://assets/scripts/tile/tile",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "db://assets/utils/index",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 44
+          },
+          "end": {
+            "line": 4,
+            "column": 69
+          }
+        }
+      },
+      {
+        "value": "db://assets/runtime/dataManage",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "../../runtime/resourceManage",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 27
+          },
+          "end": {
+            "line": 6,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts": {
+    "mTimestamp": {
+      "mtime": 1694830984237.303,
+      "uuid": "4807648f-9abf-4799-8aa7-98e1cfe6c6bb"
+    },
+    "chunkId": "assets/scripts/tile/tile.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 72
+          },
+          "end": {
+            "line": 1,
+            "column": 76
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/utils/index.ts": {
+    "mTimestamp": {
+      "mtime": 1694833384719.1914,
+      "uuid": "d680711f-c82b-4247-8846-c47054b1bd23"
+    },
+    "chunkId": "assets/utils/index.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 42
+          },
+          "end": {
+            "line": 1,
+            "column": 46
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/dataManage.ts": {
+    "mTimestamp": {
+      "mtime": 1694921651103.2075,
+      "uuid": "24a4c2a0-ae8e-4264-85b0-4615bb78ae38"
+    },
+    "chunkId": "assets/runtime/dataManage.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "db://assets/base/base",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts": {
+    "mTimestamp": {
+      "mtime": 1694833083746.1467,
+      "uuid": "e51262ed-f730-4fc9-90f6-f56cb79c231d"
+    },
+    "chunkId": "assets/runtime/resourceManage.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 39
+          },
+          "end": {
+            "line": 1,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "db://assets/base/base",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts": {
+    "mTimestamp": {
+      "mtime": 1694925633669.645,
+      "uuid": "364b208d-4a2f-49af-ad7c-2fcaa6a6e015"
+    },
+    "chunkId": "assets/base/base.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts": {
+    "mTimestamp": {
+      "mtime": 1694836262130.5332,
+      "uuid": "52297f41-39e9-4147-a007-b0e9146f00da"
+    },
+    "chunkId": "assets/runtime/eventManage.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "db://assets/base/base",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 26
+          },
+          "end": {
+            "line": 1,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/base/base.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/control.ts": {
+    "mTimestamp": {
+      "mtime": 1694836882577.0774,
+      "uuid": "d449a801-c44b-4890-a45d-48dbfe2962dc"
+    },
+    "chunkId": "assets/scripts/ui/control.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/ui/controlManage.ts": {
+    "mTimestamp": {
+      "mtime": 1694927354680.7244,
+      "uuid": "d449a801-c44b-4890-a45d-48dbfe2962dc"
+    },
+    "chunkId": "assets/scripts/ui/controlManage.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 51
+          },
+          "end": {
+            "line": 2,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "db://assets/runtime/eventManage",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 24
+          },
+          "end": {
+            "line": 3,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "db://assets/Enum/index",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 50
+          },
+          "end": {
+            "line": 4,
+            "column": 74
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/levels/level2.ts": {
+    "mTimestamp": {
+      "mtime": 1694837448338.5603,
+      "uuid": "8b046ac9-5848-4a53-b8ec-566fd93b0be9"
+    },
+    "chunkId": "assets/levels/level2.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "db://assets/Enum",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 31
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/playerManage.ts": {
+    "mTimestamp": {
+      "mtime": 1695037248308.5127,
+      "uuid": "134eabaf-3e1e-4651-808f-9124466699de"
+    },
+    "chunkId": "assets/scripts/player/playerManage.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 70
+          },
+          "end": {
+            "line": 1,
+            "column": 74
+          }
+        }
+      },
+      {
+        "value": "db://assets/scripts/tile/tile",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 40
+          },
+          "end": {
+            "line": 2,
+            "column": 71
+          }
+        }
+      },
+      {
+        "value": "db://assets/Enum",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 50
+          },
+          "end": {
+            "line": 3,
+            "column": 68
+          }
+        }
+      },
+      {
+        "value": "db://assets/runtime/eventManage",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 24
+          },
+          "end": {
+            "line": 4,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "db://assets/scripts/player/animation/playerAnimController",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 37
+          },
+          "end": {
+            "line": 5,
+            "column": 96
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/tile/tile.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/animationManage.ts": {
+    "mTimestamp": {
+      "mtime": 1694919306172.111,
+      "uuid": "f0c845e4-8696-455f-bb12-8c879e1c2219"
+    },
+    "chunkId": "assets/runtime/animationManage.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts": {
+    "mTimestamp": {
+      "mtime": 1695202019746.7463,
+      "uuid": "fcb36e47-0e9f-4199-b064-6f3827900d1b"
+    },
+    "chunkId": "assets/scripts/player/animation/playerIdle.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 41
+          },
+          "end": {
+            "line": 1,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "db://assets/scripts/player/animation/playerState",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 78
+          }
+        }
+      },
+      {
+        "value": "db://assets/Enum",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 26
+          },
+          "end": {
+            "line": 5,
+            "column": 44
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerAnimController.ts": {
+    "mTimestamp": {
+      "mtime": 1695037398873.6953,
+      "uuid": "96bae49c-4cdc-4d14-9f8b-774874124af0"
+    },
+    "chunkId": "assets/scripts/player/animation/playerAnimController.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 64
+          },
+          "end": {
+            "line": 1,
+            "column": 68
+          }
+        }
+      },
+      {
+        "value": "db://assets/scripts/player/animation/playerStateMachine",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 35
+          },
+          "end": {
+            "line": 2,
+            "column": 92
+          }
+        }
+      },
+      {
+        "value": "db://assets/scripts/player/animation",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 42
+          },
+          "end": {
+            "line": 3,
+            "column": 80
+          }
+        }
+      },
+      {
+        "value": "db://assets/runtime/eventManage",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 24
+          },
+          "end": {
+            "line": 4,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "db://assets/Enum",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 49
+          },
+          "end": {
+            "line": 5,
+            "column": 67
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/eventManage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/Enum/index.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/player.ts": {
+    "mTimestamp": {
+      "mtime": 1694924649727.9714,
+      "uuid": "d170f83b-c309-4a15-8f50-7836f1c1dfb7"
+    },
+    "chunkId": "assets/scripts/player/animation/player.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts": {
+    "mTimestamp": {
+      "mtime": 1694932334760.345,
+      "uuid": "d82a17e6-6550-403b-95b8-3818c807a96d"
+    },
+    "chunkId": "assets/scripts/player/animation/playerTurnLeft.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 41
+          },
+          "end": {
+            "line": 1,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "db://assets/scripts/player/animation/playerState",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 78
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts": {
+    "mTimestamp": {
+      "mtime": 1695201941659.8562,
+      "uuid": "296e967f-a45f-404a-8eed-7663ff24b240"
+    },
+    "chunkId": "assets/scripts/player/animation/playerState.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 85
+          },
+          "end": {
+            "line": 1,
+            "column": 89
+          }
+        }
+      },
+      {
+        "value": "db://assets/runtime/resourceManage",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 27
+          },
+          "end": {
+            "line": 3,
+            "column": 63
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/runtime/resourceManage.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts": {
+    "mTimestamp": {
+      "mtime": 1694925718415.0789,
+      "uuid": "074c48fb-1346-4f23-bd57-9a73066930ba"
+    },
+    "chunkId": "assets/scripts/player/animation/playerStateMachine.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/index.ts": {
+    "mTimestamp": {
+      "mtime": 1694926135272.0547,
+      "uuid": "a8736c8c-9fec-4678-8dd3-23159493df04"
+    },
+    "chunkId": "assets/scripts/player/animation/index.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "db://assets/scripts/player/animation/playerState",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 28
+          },
+          "end": {
+            "line": 1,
+            "column": 78
+          }
+        }
+      },
+      {
+        "value": "db://assets/scripts/player/animation/playerStateMachine",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 35
+          },
+          "end": {
+            "line": 2,
+            "column": 92
+          }
+        }
+      },
+      {
+        "value": "db://assets/scripts/player/animation/playerIdle",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 27
+          },
+          "end": {
+            "line": 3,
+            "column": 76
+          }
+        }
+      },
+      {
+        "value": "db://assets/scripts/player/animation/playerTurnLeft",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 31
+          },
+          "end": {
+            "line": 4,
+            "column": 84
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerState.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerStateMachine.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerIdle.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/14416/Desktop/gameassets/cocos-start-demo-master/assets/scripts/player/animation/playerTurnLeft.ts"
+      }
+    ]
+  }
+}
